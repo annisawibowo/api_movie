@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Api Movie</string>
+    <string name="imagename">imagename</string>
+    <string name="poster">https://image.tmdb.org/t/p/w500</string>
+    <string name="api_key">2da9023f3d5f169a3fc97022747020b5</string>
+
+</resources>
